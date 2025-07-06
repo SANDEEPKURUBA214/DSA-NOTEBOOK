@@ -5,17 +5,16 @@ This repository contains my personal DSA (Data Structures and Algorithms) notebo
 
 ## 📚 Topics Covered
 
-- Arrays
-- Linked Lists 
-- Stacks and Queues
-- Binary Trees and BST
-- Tree Traversals (Inorder, Preorder, Postorder)
-- Heap, Priority Queue
-- Graphs (DFS, BFS,dijkstras)
-- HashMaps & Sets
-- Searching & Sorting 
-`
-  
+Arrays
+Sorting 
+Searching
+LinkedLists
+Queue and Stack
+Hashtables
+Tress
+graphs
+tries
+heaps
 
 ## 🛠 Tech Stack
 - Python
