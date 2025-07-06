@@ -1,30 +1,42 @@
-# DSA-NOTEBOOK
-# 🧠 Data Structures & Algorithms – Python Notebook
+# 👋 Hi, I'm Sandeep Kuruba
 
-This repository contains my personal DSA (Data Structures and Algorithms) notebook implemented in Python using Jupyter Notebook. It includes clean, beginner-friendly code and examples for all major DSA topics.
+🎯 Aspiring Software Engineer | MERN Stack Developer | DSA Enthusiast
 
-## 📚 Topics Covered
+---
 
-Arrays
-Sorting 
-Searching
-LinkedLists
-Queue and Stack
-Hashtables
-Tress
-graphs
-tries
-heaps
+## 🚀 About Me
 
-## 🛠 Tech Stack
-- Python
-- Jupyter Notebook
-- Git
+- 💻 Currently learning: **MERN Stack** & mastering **Data Structures and Algorithms**
+- 📘 Practicing DSA on [LeetCode](https://leetcode.com/u/XjU7dQHPv0/)
+- 📫 Available for hire: **Actively looking for SDE roles**
 
-## 🚀 Why This Exists
-I built this notebook to deeply understand DSA for interviews and competitive programming. This is part of my journey toward becoming a software engineer (SDE), and I’m actively solving LeetCode and participating in contests.
+---
 
-## 👨‍💻 Author
-sandeep aka tony
+## 🛠️ Tech Stack
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+---
+
+## 📌 Pinned Projects
+
+- [DSA.ipynb](https://github.com/SANDEEPKURUBA214/DSA.ipynb) – DSA Notebook with sorting, trees, graphs, and more (Python)
+
+---
+
+## 📈 GitHub Stats
+
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANDEEPKURUBA214&show_icons=true&theme=react)
+
+---
+
+## 🔗 Connect with Me
+
+- 🌐 [LeetCode](https://leetcode.com/u/XjU7dQHPv0/)
+
 
 
