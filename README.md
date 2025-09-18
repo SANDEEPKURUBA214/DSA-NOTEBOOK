@@ -24,7 +24,7 @@
 
 
 
-- [DSA.ipynb](https://github.com/SANDEEPKURUBA214/DSA.ipynb) – DSA Notebook with sorting, trees, graphs, and more (Python)
+- DSA.ipynb – DSA Notebook with sorting, trees, graphs, and more (Python)
 
 
 
