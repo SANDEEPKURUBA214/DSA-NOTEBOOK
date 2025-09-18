@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 💻 Currently learning: **MERN Stack** & mastering **Data Structures and Algorithms**
 - 📘 Practicing DSA on Leetcode
