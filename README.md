@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 💻 Currently learning: **MERN Stack** & mastering **Data Structures and Algorithms**
-- 📘 Practicing DSA on [LeetCode](https://leetcode.com/u/XjU7dQHPv0/)
+- 📘 Practicing DSA on Leetcode
 - 📫 Available for hire: **Actively looking for SDE roles**
 
 ---
@@ -26,15 +26,6 @@
 
 - [DSA.ipynb](https://github.com/SANDEEPKURUBA214/DSA.ipynb) – DSA Notebook with sorting, trees, graphs, and more (Python)
 
----
-
-
----
-
-## 🔗 Connect with Me
-
-- 🌐 [LeetCode](https://leetcode.com/u/XjU7dQHPv0/)
-- 🌐 [linkedin](www.linkedin.com/in/sandeepkuruba214)
 
 
 
