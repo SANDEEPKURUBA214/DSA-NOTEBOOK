@@ -22,7 +22,7 @@
 
 ---
 
-## 📌 Pinned Projects
+
 
 - [DSA.ipynb](https://github.com/SANDEEPKURUBA214/DSA.ipynb) – DSA Notebook with sorting, trees, graphs, and more (Python)
 
@@ -37,6 +37,7 @@
 ## 🔗 Connect with Me
 
 - 🌐 [LeetCode](https://leetcode.com/u/XjU7dQHPv0/)
+- 🌐 [linkedin](www.linkedin.com/in/sandeepkuruba214)
 
 
 
